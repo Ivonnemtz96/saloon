@@ -133,156 +133,97 @@
     <div class="container mb-5">
         <h2 class="text-center">Nuestra Galería</h2>
     </div>
-    <div class="container">
-        <div class="abutGallery-wrapper">
+    <div class="container zoom-gallery">
+        <div class="abutGallery-wrapper gallery">
             <div class="aboutGrid-sizer"></div>
             <div class="aGallery-item">
-                <div class="singleAboutGallery">
+                <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <img src="assets/img/gallery/gallery/gallery-01.jpg" alt="gallery">
-                    </div>
-                    <div class="g-icon">
-                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
-                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
-                    </div>
-                    <div class="title">
-                        <span>23 Nov , 2021</span>
-                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                        <a href="assets/img/gallery/gallery/gallery-01.jpg">
+                            <img src="assets/img/gallery/gallery/gallery-01.jpg" alt="gallery">
+                        </a>
                     </div>
                 </div>
             </div>
             <div class="aGallery-item">
-                <div class="singleAboutGallery">
+                <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <img src="assets/img/gallery/gallery/gallery-02.jpg" alt="gallery">
-                    </div>
-                    <div class="g-icon">
-                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
-                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
-                    </div>
-                    <div class="title">
-                        <span>23 Nov , 2021</span>
-                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                        <a href="assets/img/gallery/gallery/gallery-02.jpg">
+                            <img src="assets/img/gallery/gallery/gallery-02.jpg" alt="gallery">
+                        </a>
                     </div>
                 </div>
             </div>
             <div class="aGallery-item w-2 item-03 d-none d-xl-block">
-                <div class="singleAboutGallery">
+                <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <img src="assets/img/gallery/gallery/gallery-03.jpg" alt="gallery">
-                    </div>
-                    <div class="g-icon">
-                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
-                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
-                    </div>
-                    <div class="title">
-                        <span>23 Nov , 2021</span>
-                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                        <a href="assets/img/gallery/gallery/gallery-03.jpg">
+                            <img src="assets/img/gallery/gallery/gallery-03.jpg" alt="gallery">
+                        </a>
                     </div>
                 </div>
             </div>
             <div class="aGallery-item item-04">
-                <div class="singleAboutGallery">
+                <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <img src="assets/img/gallery/gallery/gallery-04.jpg" alt="gallery">
-                    </div>
-                    <div class="g-icon">
-                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
-                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
-                    </div>
-                    <div class="title">
-                        <span>23 Nov , 2021</span>
-                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                        <a href="assets/img/gallery/gallery/gallery-04.jpg">
+                            <img src="assets/img/gallery/gallery/gallery-04.jpg" alt="gallery">
+                        </a>
                     </div>
                 </div>
             </div>
             <div class="aGallery-item long-hight">
-                <div class="singleAboutGallery">
+                <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <img src="assets/img/gallery/gallery/gallery-05.jpg" alt="gallery">
-                    </div>
-                    <div class="g-icon">
-                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
-                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
-                    </div>
-                    <div class="title">
-                        <span>23 Nov , 2021</span>
-                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                        <a href="assets/img/gallery/gallery/gallery-05.jpg">
+                            <img src="assets/img/gallery/gallery/gallery-05.jpg" alt="gallery">
+                        </a>
                     </div>
                 </div>
             </div>
             <div class="aGallery-item longItem">
-                <div class="singleAboutGallery">
+                <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <img src="assets/img/gallery/gallery/gallery-06.jpg" alt="gallery">
-                    </div>
-                    <div class="g-icon">
-                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
-                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
-                    </div>
-                    <div class="title">
-                        <span>23 Nov , 2021</span>
-                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                        <a href="assets/img/gallery/gallery/gallery-06.jpg">
+                            <img src="assets/img/gallery/gallery/gallery-06.jpg" alt="gallery">
+                        </a>
                     </div>
                 </div>
             </div>
             <div class="aGallery-item long-hight">
-                <div class="singleAboutGallery">
+                <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <img src="assets/img/gallery/gallery/gallery-07.jpg" alt="gallery">
-                    </div>
-                    <div class="g-icon">
-                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
-                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
-                    </div>
-                    <div class="title">
-                        <span>23 Nov , 2021</span>
-                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                        <a href="assets/img/gallery/gallery/gallery-07.jpg">
+                            <img src="assets/img/gallery/gallery/gallery-07.jpg" alt="gallery">
+                        </a>
                     </div>
                 </div>
             </div>
             <div class="aGallery-item">
-                <div class="singleAboutGallery">
+                <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <img src="assets/img/gallery/gallery/gallery-08.jpg" alt="gallery">
-                    </div>
-                    <div class="g-icon">
-                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
-                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
-                    </div>
-                    <div class="title">
-                        <span>23 Nov , 2021</span>
-                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                        <a href="assets/img/gallery/gallery/gallery-08.jpg">
+                            <img src="assets/img/gallery/gallery/gallery-08.jpg" alt="gallery">
+                        </a>
                     </div>
                 </div>
             </div>
             <div class="aGallery-item">
-                <div class="singleAboutGallery">
+                <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <img src="assets/img/gallery/gallery/gallery-09.jpg" alt="gallery">
+                        <a href="assets/img/gallery/gallery/gallery-09.jpg">
+                            <img src="assets/img/gallery/gallery/gallery-09.jpg" alt="gallery">
+                        </a>
                     </div>
-                    <div class="g-icon">
-                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
-                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
-                    </div>
-                    <div class="title">
-                        <span>23 Nov , 2021</span>
-                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
-                    </div>
+
                 </div>
             </div>
             <div class="aGallery-item w-2 d-block d-xl-none">
-                <div class="singleAboutGallery">
+                <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <img src="assets/img/gallery/gallery/gallery-03.jpg" alt="gallery">
-                    </div>
-                    <div class="g-icon">
-                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
-                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
-                    </div>
-                    <div class="title">
-                        <span>23 Nov , 2021</span>
-                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                        <a href="assets/img/gallery/gallery/gallery-03.jpg">
+                            <img src="assets/img/gallery/gallery/gallery-03.jpg" alt="gallery">
+                        </a>
                     </div>
                 </div>
             </div>
@@ -293,7 +234,7 @@
 
 <!-- Video Area Start Here -->
 <div class="container mb-5 text-center">
-    <h2 >Un poco de nuestro ambiente</h2>
+    <h2>Un poco de nuestro ambiente</h2>
     <span>Mezcla perfecta de lujo, entretenimiento y exclusividad.</span>
 </div>
 <div class="hv1-vider-area relative">
@@ -366,7 +307,8 @@
         <div class="subscribe-wrapper">
             <div class="section-title">
                 <h2 data-aos="fade-up">No esperes más y reserva ahora</h2>
-                <p data-aos="fade-up" data-aos-delay="100">Ven y vive el privilegio de pasar tu noche en Saloon Cabo.</p>
+                <p data-aos="fade-up" data-aos-delay="100">Ven y vive el privilegio de pasar tu noche en Saloon Cabo.
+                </p>
                 <span data-aos="fade-up" data-aos-delay="200"></span>
                 <span data-aos="fade-up" data-aos-delay="300"></span>
             </div>
@@ -389,28 +331,28 @@
                     ¡Escríbenos! Estamos para servirte.
                 </p>
                 <div class="from mt-20">
-                <div class="input-box"  data-aos="fade-up" data-aos-delay="400">
+                    <div class="input-box" data-aos="fade-up" data-aos-delay="400">
                         <label>Nombre</label>
                         <div class="input-fild">
                             <input type="text" placeholder="Escriba su nombre" required>
                         </div>
                     </div>
-                    <div class="input-box mt-4"  data-aos="fade-up" data-aos-delay="400">
+                    <div class="input-box mt-4" data-aos="fade-up" data-aos-delay="400">
                         <label>E-mail</label>
                         <div class="input-fild">
                             <input type="email" placeholder="Escriba su correo" required>
                         </div>
                     </div>
-                    <div class="input-box mt-4"  data-aos="fade-up" data-aos-delay="400">
+                    <div class="input-box mt-4" data-aos="fade-up" data-aos-delay="400">
                         <label>Teléfono</label>
                         <div class="input-fild">
                             <input type="text" placeholder="Escriba su télefono" required>
                         </div>
                     </div>
-                    <div class="input-fild mt-30"  data-aos="fade-up" data-aos-delay="500">
+                    <div class="input-fild mt-30" data-aos="fade-up" data-aos-delay="500">
                         <textarea placeholder="Mensaje" required></textarea>
                     </div>
-                    <div class="button mt-20 mt-xs-10"  data-aos="fade-up" data-aos-delay="600">
+                    <div class="button mt-20 mt-xs-10" data-aos="fade-up" data-aos-delay="600">
                         <a class="btn btn-skew-y" type="submit" data-text="Enviar"><span>Enviar</span></a>
                     </div>
                 </div>
@@ -422,14 +364,17 @@
         <div class="container">
             <div class="contact-dec-wrapper">
                 <div class="content">
-                   <div class="title">
+                    <div class="title">
                         <h5>Información de Contacto</h5>
                         <p>Lorem ipsum dolor sit amet consectetur pulvinar elementum from contact. </p>
-                   </div>
+                    </div>
                     <div class="contact">
-                        <a href="tel:+521234567890"><span class="iconify" data-icon="clarity:phone-handset-solid"></span> +52 123 4567890</a>
-                        <a href="mailto:salooncoachbar@gmail.com"><span class="iconify" data-icon="fluent:mail-28-filled"></span> salooncoachbar@gmail.com</a>
-                        <a href="https://goo.gl/maps/HEVxJ1faPLiYTMAMA"><span class="iconify" data-icon="entypo:location-pin"></span> Boulevard Lázaro Cárdenas, Cabo San Lucas</a>
+                        <a href="tel:+521234567890"><span class="iconify"
+                                data-icon="clarity:phone-handset-solid"></span> +52 123 4567890</a>
+                        <a href="mailto:salooncoachbar@gmail.com"><span class="iconify"
+                                data-icon="fluent:mail-28-filled"></span> salooncoachbar@gmail.com</a>
+                        <a href="https://goo.gl/maps/HEVxJ1faPLiYTMAMA"><span class="iconify"
+                                data-icon="entypo:location-pin"></span> Boulevard Lázaro Cárdenas, Cabo San Lucas</a>
                     </div>
                 </div>
                 <div class="contact-social">
@@ -442,7 +387,7 @@
                     <!-- <a href="#">
                         <span class="iconify" data-icon="akar-icons:twitter-fill"></span>
                     </a> -->
-                    
+
                 </div>
             </div>
         </div>
