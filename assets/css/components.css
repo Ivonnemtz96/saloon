@@ -550,7 +550,7 @@ button:focus,
   border: none;
   position: relative;
   z-index: 1;
-  color: var(--white-txt-clr);
+  color: #000;
   border-radius: 0;
 }
 .btn:hover {

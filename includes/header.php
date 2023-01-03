@@ -4,7 +4,7 @@
         <div class="header-wrapper">
             <div class="logo">
                 <a href="/">
-                    <img src="assets/img/logo.svg" alt="logo">
+                    <img style="max-width: 60%;" src="assets/img/logo.webp" alt="logo">
                 </a>
             </div>
             <div class="main-menu">

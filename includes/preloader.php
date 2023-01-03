@@ -3,7 +3,7 @@
 <div id="preloader" style="background-image: url('assets/img/demo/feature.jpg');">
     <div id="ctn-preloader" class="ctn-preloader ">
         <div class="animation-preloader">
-            <div class="loading">
+            <!-- <div class="loading">
 
                 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 35.235 35.235"
@@ -41,16 +41,14 @@
                         </g>
                     </g>
                 </svg>
-            </div>
+            </div> -->
             <div class="txt-loading">
-                <span data-text-preloader="F" class="letters-loading">F</span>
+                <span data-text-preloader="S" class="letters-loading">S</span>
+                <span data-text-preloader="A" class="letters-loading">A</span>
+                <span data-text-preloader="L" class="letters-loading">L</span>
                 <span data-text-preloader="O" class="letters-loading">O</span>
-                <span data-text-preloader="O" class="letters-loading">O</span>
-                <span data-text-preloader="D" class="letters-loading">D</span>
-                <span data-text-preloader="Z" class="letters-loading">Z</span>
                 <span data-text-preloader="O" class="letters-loading">O</span>
                 <span data-text-preloader="N" class="letters-loading">N</span>
-                <span data-text-preloader="E" class="letters-loading">E</span>
             </div>
         </div>
     </div>
