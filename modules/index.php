@@ -9,7 +9,7 @@
                 <p>
                     Baila al ritmo de la música y disfruta de nuestras deliciosas bebidas
                 </p>
-                <a class="btn btn-skew-y" href="#" data-text="¡Reserva Ahora!"><span>¡Reserva ahora!</span></a>
+                <a class="btn btn-skew-y" href="/#contacto" data-text="¡Reserva Ahora!"><span>¡Reserva ahora!</span></a>
             </div>
             <div class="hv1-banner-content">
                 <h2>Saloon Cabo</h2>
@@ -17,7 +17,7 @@
                 <p>
                     La fiesta no se detiene hasta que tu lo pidas.
                 </p>
-                <a class="btn btn-skew-y" href="#" data-text="¡Reserva ahora!"><span>¡Reserva ahora!</span></a>
+                <a class="btn btn-skew-y" href="/#contacto" data-text="¡Reserva ahora!"><span>¡Reserva ahora!</span></a>
             </div>
             <!-- <div class="hv1-banner-content">
                 <h2>Welcome to</h2>
@@ -39,7 +39,7 @@
 <!-- Banner Area End Here -->
 
 <!-- About Area Start Here -->
-<section class="about-area s-py-100">
+<section class="about-area s-py-100"  id="nosotros">
     <div class="container">
         <div class="about-wrapper about-anime-section-one">
             <div class="about-thumb">
@@ -64,8 +64,7 @@
                     <li>Cócteles</li>
                     <li>Prmociones especiales</li>
                 </ul>
-                <a class="btn btn-skew-y btn-md mt-30 mt-md-20" href="/#galeria" data-text="Ver más"><span>Ver
-                        más</span></a>
+                <a class="btn btn-skew-y btn-md mt-30 mt-md-20" href="/#galeria" data-text="Ver Galería"><span>Ver Galería</span></a>
             </div>
         </div>
     </div>
@@ -73,7 +72,7 @@
 <!-- About Area End Here -->
 
 <!-- Gallery Area Start Here -->
-<div class="hv1-gallery-area">
+<div class="hv1-gallery-area" id="promos">
     <div class="container-fluid p-0">
         <div class="container mb-5">
             <h2 class="text-center">¿Ya conoces nuestras promociones?</h2>
@@ -86,7 +85,7 @@
                 <div class="hv1-g-content">
                     <!-- <h3>Evening Snacks</h3> -->
                     <p><span class="iconify" data-icon="akar-icons:clock"></span> 12:00 PM - 2:45 AM</p>
-                    <a class="btn btn-skew-y btn-md" href="#" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
+                    <a class="btn btn-skew-y btn-md" target="_blank" href="https://goo.gl/maps/WBNKY7TNm8K3vCkZ9" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
                 </div>
             </div>
             <div class="single-hv1-gallery" data-aos="fade-up" data-aos-delay="200">
@@ -96,7 +95,7 @@
                 <div class="hv1-g-content">
                     <!-- <h3>Evening Snacks</h3> -->
                     <p><span class="iconify" data-icon="akar-icons:clock"></span> 12:00 PM - 2:45 AM</p>
-                    <a class="btn btn-skew-y btn-md" href="#" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
+                    <a class="btn btn-skew-y btn-md" target="_blank" href="https://goo.gl/maps/WBNKY7TNm8K3vCkZ9" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
                 </div>
             </div>
             <div class="single-hv1-gallery" data-aos="fade-up" data-aos-delay="400">
@@ -106,7 +105,7 @@
                 <div class="hv1-g-content">
                     <!-- <h3>Evening Snacks</h3> -->
                     <p><span class="iconify" data-icon="akar-icons:clock"></span> 12:00 PM - 2:45 AM</p>
-                    <a class="btn btn-skew-y btn-md" href="#" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
+                    <a class="btn btn-skew-y btn-md" target="_blank" href="https://goo.gl/maps/WBNKY7TNm8K3vCkZ9" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
                 </div>
             </div>
             <div class="single-hv1-gallery" data-aos="fade-up" data-aos-delay="600">
@@ -116,7 +115,7 @@
                 <div class="hv1-g-content">
                     <!-- <h3>Evening Snacks</h3> -->
                     <p><span class="iconify" data-icon="akar-icons:clock"></span> 12:00 PM - 2:45 AM</p>
-                    <a class="btn btn-skew-y btn-md" href="#" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
+                    <a class="btn btn-skew-y btn-md" target="_blank" href="https://goo.gl/maps/WBNKY7TNm8K3vCkZ9" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
                 </div>
             </div>
         </div>
@@ -128,7 +127,7 @@
 <!-- Gallery Area Start Here -->
 <section class="gallery-area s-py-100">
 
-    <div class="container mb-5">
+    <div class="container mb-5" id="galeria">
         <h2 class="text-center">Nuestra Galería</h2>
     </div>
     <div class="container zoom-gallery">
@@ -242,7 +241,7 @@
     </div>
     <div class="container">
         <div class="hv1-video">
-            <a class="popup-video" href="https://vimeo.com/9326258">
+            <a class="popup-video" href="https://www.youtube.com/watch?v=oX6Rw4_aZoQ">
                 <img src="assets/img/icon/play.svg" alt="play">
             </a>
         </div>
@@ -261,36 +260,31 @@
         <div class="shape-5"><img src="assets/img/home-v1/testimonial/shape-05.png" alt="shape"></div>
         <div class="container">
             <div class="section-title">
-                <h2>Happy Customer</h2>
-                <p class="clr-white">Nibh purus integer elementum in. Tellus vulputate habitasse ut diam Auctor sit
-                    elementum, vulputate</p>
+                <h2>Clientes Satisfechos</h2>
+                <p class="clr-white">
+                    ¿Qué dicen nuestros clientes?
+                </p>
                 <span></span>
                 <span></span>
             </div>
             <div class="hv1-tstimnl-wrapper owl-carousel">
                 <div class="single-hv1-tstimnl">
                     <img src="assets/img/icon/quiet.svg" alt="icon">
-                    <h4>Amet, pretium elementum ut praesent porttitor natoque non odio. Vel ut integer feugiat ut velit
-                        phasellus cras. Volutpat vulputate mattis venenatis tellus felis urna, pulvinar. lectus volutpat
-                        dolor.</h4>
+                    <h4>A lot of fun relax time best times there</h4>
                     <span class="line"></span>
-                    <a href="#">James Williamson <span>Thai Master Chef</span></a>
+                    <a target="_blank" href="https://www.facebook.com/salooncabo/reviews/?ref=page_internal">Laura A Martinez</a>
                 </div>
                 <div class="single-hv1-tstimnl">
                     <img src="assets/img/icon/quiet.svg" alt="icon">
-                    <h4>Amet, pretium elementum ut praesent porttitor natoque non odio. Vel ut integer feugiat ut velit
-                        phasellus cras. Volutpat vulputate mattis venenatis tellus felis urna, pulvinar. lectus volutpat
-                        dolor.</h4>
+                    <h4>It was a FANTASTIC time! Very entertaining!</h4>
                     <span class="line"></span>
-                    <a href="#">Adelbert <span>Thai Master Chef</span></a>
+                    <a target="_blank" href="https://www.facebook.com/salooncabo/reviews/?ref=page_internal">Robin-Strong Joyce</a>
                 </div>
                 <div class="single-hv1-tstimnl">
                     <img src="assets/img/icon/quiet.svg" alt="icon">
-                    <h4>Amet, pretium elementum ut praesent porttitor natoque non odio. Vel ut integer feugiat ut velit
-                        phasellus cras. Volutpat vulputate mattis venenatis tellus felis urna, pulvinar. lectus volutpat
-                        dolor.</h4>
+                    <h4>Lo mejor de.los cabos super recomendado ,❤️❤️❤️❤️</h4>
                     <span class="line"></span>
-                    <a href="#">Lexander <span>Thai Master Chef</span></a>
+                    <a target="_blank" href="https://www.facebook.com/salooncabo/reviews/?ref=page_internal">Eduardo Robelo Garcia</a>
                 </div>
             </div>
         </div>
@@ -311,7 +305,7 @@
                 <span data-aos="fade-up" data-aos-delay="300"></span>
             </div>
             <div class="sb-from">
-                <a href="#" data-aos="fade-down " class="btn sb-btn">Hacer reservación</a>
+                <a href="/#contacto" data-aos="fade-down " class="btn sb-btn">Hacer reservación</a>
             </div>
         </div>
     </div>
@@ -320,7 +314,7 @@
 
 <!-- Contact Area Start Here -->
 <section class="contact-area bg-overlay" style="background-image: url('assets/img/bg/contct.jpg');">
-    <div class="s-py-100">
+    <div class="s-py-100" id="contacto">
         <div class="container">
             <div class="contact-from">
                 <h5 data-aos="fade-up">¿Tienes alguna duda o pregunta?</h5>
@@ -364,22 +358,23 @@
                 <div class="content">
                     <div class="title">
                         <h5>Información de Contacto</h5>
-                        <p>Lorem ipsum dolor sit amet consectetur pulvinar elementum from contact. </p>
+                        <p>Nuestros horarios <br>
+                            Lunes  a Domingo: <strong>12:00pm a 2:45 am</strong></p>
                     </div>
                     <div class="contact">
-                        <a href="tel:+521234567890"><span class="iconify"
+                        <a target="_blank" href="tel:+521234567890"><span class="iconify"
                                 data-icon="clarity:phone-handset-solid"></span> +52 123 4567890</a>
-                        <a href="mailto:salooncoachbar@gmail.com"><span class="iconify"
+                        <a target="_blank" href="mailto:salooncoachbar@gmail.com"><span class="iconify"
                                 data-icon="fluent:mail-28-filled"></span> salooncoachbar@gmail.com</a>
-                        <a href="https://goo.gl/maps/HEVxJ1faPLiYTMAMA"><span class="iconify"
+                        <a target="_blank" href="https://goo.gl/maps/HEVxJ1faPLiYTMAMA"><span class="iconify"
                                 data-icon="entypo:location-pin"></span> Boulevard Lázaro Cárdenas, Cabo San Lucas</a>
                     </div>
                 </div>
                 <div class="contact-social">
-                    <a href="#">
+                    <a target="_blank" href="https://www.facebook.com/Saloon-Cabo-106456064816063">
                         <span class="iconify" data-icon="icomoon-free:facebook"></span>
                     </a>
-                    <a href="#">
+                    <a target="_blank" href="https://www.facebook.com/Saloon-Cabo-106456064816063">
                         <span class="iconify" data-icon="akar-icons:instagram-fill"></span>
                     </a>
                     <!-- <a href="#">

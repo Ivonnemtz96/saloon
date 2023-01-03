@@ -18,10 +18,10 @@
                         </ul>
                     </li> -->
                     <li><a href="/" data-text="Inicio"><span>Inicio</span></a></li>
-                    <li><a href="/" data-text="Nosotros"><span>Nosotros</span></a></li>
-                    <li><a href="/" data-text="Galería"><span>Galería</span></a></li>
-                    <li><a href="/" data-text="Promociones"><span>Promociones</span></a></li>
-                    <li><a href="/" data-text="Contacto"><span>Contacto</span></a></li>
+                    <li><a href="/#nosotros" data-text="Nosotros"><span>Nosotros</span></a></li>
+                    <li><a href="/#galeria" data-text="Galería"><span>Galería</span></a></li>
+                    <li><a href="/#promos" data-text="Promociones"><span>Promociones</span></a></li>
+                    <li><a href="/#contacto" data-text="Contacto"><span>Contacto</span></a></li>
                 </ul>
             </div>
             <div class="header-right">
