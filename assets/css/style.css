@@ -8427,7 +8427,7 @@
   z-index: 1;
 }
 .homeV1-banner-area::before {
-  background: var(--hv1-banner);
+  background: #0000008a;
 }
 .homeV1-banner-area .shape {
   position: absolute;

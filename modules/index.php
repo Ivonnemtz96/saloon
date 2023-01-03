@@ -1,8 +1,6 @@
 <!-- Banner Area Start Here -->
 <section class="homeV1-banner-area bg-overlay" style="background-image: url('assets/img/home-v1/banner.webp');">
-    <div class="shape">
-        <img src="assets/img/home-v1/banner-shpe.jpg" alt="shape">
-    </div>
+    
     <div class="container">
         <div class="hv1-banner-wrapper owl-carousel">
             <div class="hv1-banner-content">
