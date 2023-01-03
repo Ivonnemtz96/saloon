@@ -1,6 +1,6 @@
 <!-- footer section start here -->
 
-<footer class="footer-area s-py-70 ">
+<!-- <footer class="footer-area s-py-70 ">
     <div class="bg background-img">
         <img class="top-bottom" src="assets/img/bg/footer-bg.jpg" alt="bg">
     </div>
@@ -139,10 +139,10 @@
     <a href="#" id="scrollUp">
         <span class="iconify" data-icon="dashicons:arrow-up-alt2"></span>
     </a>
-</footer>
+</footer> -->
 <div class="copyright">
     <div class="container">
-        <p>Copyright &copy; 2021 foodzone All Rights Reserved.</p>
+        <p>Copyright &copy; 2022 Saloon Cabo. Diseñado por <a href="https://bananagroup.mx">Banana Group Marketing</a>.</p>
     </div>
 </div>
 <!-- Footer script-->
