@@ -6,20 +6,22 @@
     <div class="container">
         <div class="hv1-banner-wrapper owl-carousel">
             <div class="hv1-banner-content">
-                <h2>Welcome to</h2>
-                <span class="title">Delicious Food Zone</span>
-                <p>Nibh purus integer elementum in. Tellus vulputate habitasse ut diam Auctor sit elementum, vulputate
+                <h2>Noches de diversión que no te puedes perder en</h2>
+                <span class="title">Saloon Cabo</span>
+                <p>
+                    Baila al ritmo de la música y disfruta de nuestras deliciosas bebidas
                 </p>
-                <a class="btn btn-skew-y" href="#" data-text="Read More"><span>Read More</span></a>
+                <a class="btn btn-skew-y" href="#" data-text="¡Reserva Ahora!"><span>¡Reserva ahora!</span></a>
             </div>
             <div class="hv1-banner-content">
-                <h2>Welcome to</h2>
-                <span class="title">Nummy Food Zone</span>
-                <p>Nibh purus integer elementum in. Tellus vulputate habitasse ut diam Auctor sit elementum, vulputate
+                <h2>Saloon Cabo</h2>
+                <span class="title">Deja que tu alma sea libre y se deje llevar por el ritmo</span>
+                <p>
+                    La fiesta no se detiene hasta que tu lo pidas.
                 </p>
-                <a class="btn btn-skew-y" href="#" data-text="Read More"><span>Read More</span></a>
+                <a class="btn btn-skew-y" href="#" data-text="¡Reserva ahora!"><span>¡Reserva ahora!</span></a>
             </div>
-            <div class="hv1-banner-content">
+            <!-- <div class="hv1-banner-content">
                 <h2>Welcome to</h2>
                 <span class="title">Delicious Food Zone</span>
                 <p>Nibh purus integer elementum in. Tellus vulputate habitasse ut diam Auctor sit elementum, vulputate
@@ -32,7 +34,7 @@
                 <p>Nibh purus integer elementum in. Tellus vulputate habitasse ut diam Auctor sit elementum, vulputate
                 </p>
                 <a class="btn btn-skew-y" href="#" data-text="Read More"><span>Read More</span></a>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
@@ -51,18 +53,21 @@
                 </div>
             </div>
             <div class="about-content anime-thumb-about-content">
-                <h4>Why We are the best</h4>
-                <p>Amet, pretium elementum ut praesent porttitor natoque non odio. Vel ut integer feugiat ut velit
-                    phasellus cras. Volutpat vulputate mattis venenatis tellus felis urna, pulvinar. lectus volutpat
-                    dolor.</p>
+                <h4>Saloon Cabo</h4>
+                <p>
+                    Comer rico, pasarla bien, cantar, beber y escuchar buena música son sólo algunas de las experiencias
+                    que vivirás en Saloon Cabo. <br>
+                    Por algo somos el mejor bar en Cabo San Lucas. Una experiencia sensorial única, hecho para todas las
+                    edades.
+                </p>
                 <ul>
-                    <li>Volutpat vulputate mattis venenatis tellus felis urna, pulvinar. lectus volutpat dolor.</li>
-                    <li>Mattis venenatis tellus felis urna lorem ipsum pulvinar.</li>
-                    <li>Praesent porttitor natoque non odio vulputate.</li>
-                    <li>Kolutpat vulputate mattis venenatis tellus felis urna.</li>
+                    <li>Música</li>
+                    <li>Bebidas</li>
+                    <li>Cócteles</li>
+                    <li>Prmociones especiales</li>
                 </ul>
-                <a class="btn btn-skew-y btn-md mt-30 mt-md-20" href="about.html" data-text="Read More"><span>Read
-                        More</span></a>
+                <a class="btn btn-skew-y btn-md mt-30 mt-md-20" href="/#galeria" data-text="Ver más"><span>Ver
+                        más</span></a>
             </div>
         </div>
     </div>
@@ -72,16 +77,18 @@
 <!-- Gallery Area Start Here -->
 <div class="hv1-gallery-area">
     <div class="container-fluid p-0">
+        <div class="container mb-5">
+            <h2 class="text-center">¿Ya conoces nuestras promociones?</h2>
+        </div>
         <div class="hv1-gallery-wrapper">
             <div class="single-hv1-gallery" data-aos="fade-up">
                 <div class="hv1-g-img">
                     <img src="assets/img/home-v1/gallery/g-01.jpg" alt="food-gallery">
                 </div>
                 <div class="hv1-g-content">
-                    <h3>Evening Snacks</h3>
-                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 7:30 AM - 11 AM</p>
-                    <a class="btn btn-skew-y btn-md" href="f-menu-v1.html" data-text="See Full Menu"><span>See Full
-                            Menu</span></a>
+                    <!-- <h3>Evening Snacks</h3> -->
+                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 12:00 PM - 2:45 AM</p>
+                    <a class="btn btn-skew-y btn-md" href="#" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
                 </div>
             </div>
             <div class="single-hv1-gallery" data-aos="fade-up" data-aos-delay="200">
@@ -89,10 +96,9 @@
                     <img src="assets/img/home-v1/gallery/g-02.jpg" alt="food-gallery">
                 </div>
                 <div class="hv1-g-content">
-                    <h3>Evening Snacks</h3>
-                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 7:30 AM - 11 AM</p>
-                    <a class="btn btn-skew-y btn-md" href="f-menu-v1.html" data-text="See Full Menu"><span>See Full
-                            Menu</span></a>
+                    <!-- <h3>Evening Snacks</h3> -->
+                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 12:00 PM - 2:45 AM</p>
+                    <a class="btn btn-skew-y btn-md" href="#" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
                 </div>
             </div>
             <div class="single-hv1-gallery" data-aos="fade-up" data-aos-delay="400">
@@ -100,10 +106,9 @@
                     <img src="assets/img/home-v1/gallery/g-03.jpg" alt="food-gallery">
                 </div>
                 <div class="hv1-g-content">
-                    <h3>Evening Snacks</h3>
-                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 7:30 AM - 11 AM</p>
-                    <a class="btn btn-skew-y btn-md" href="f-menu-v1.html" data-text="See Full Menu"><span>See Full
-                            Menu</span></a>
+                    <!-- <h3>Evening Snacks</h3> -->
+                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 12:00 PM - 2:45 AM</p>
+                    <a class="btn btn-skew-y btn-md" href="#" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
                 </div>
             </div>
             <div class="single-hv1-gallery" data-aos="fade-up" data-aos-delay="600">
@@ -111,10 +116,9 @@
                     <img src="assets/img/home-v1/gallery/g-04.jpg" alt="food-gallery">
                 </div>
                 <div class="hv1-g-content">
-                    <h3>Evening Snacks</h3>
-                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 7:30 AM - 11 AM</p>
-                    <a class="btn btn-skew-y btn-md" href="f-menu-v1.html" data-text="See Full Menu"><span>See Full
-                            Menu</span></a>
+                    <!-- <h3>Evening Snacks</h3> -->
+                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 12:00 PM - 2:45 AM</p>
+                    <a class="btn btn-skew-y btn-md" href="#" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
                 </div>
             </div>
         </div>
@@ -122,107 +126,178 @@
 </div>
 <!-- Gallery Area End Here -->
 
-<!-- Menu Area Start Here -->
-<section class="hv1-menu-area s-py-100 bg-overlay" style="background-image: url('assets/img/home-v1/menu-shape.png');">
+
+<!-- Gallery Area Start Here -->
+<section class="gallery-area s-py-100">
+
+    <div class="container mb-5">
+        <h2 class="text-center">Nuestra Galería</h2>
+    </div>
     <div class="container">
-        <div class="section-title">
-            <h2>Most Popular Menu</h2>
-            <p>Nibh purus integer elementum in. Tellus vulputate habitasse ut diam Auctor sit elementum, vulputate</p>
-            <span></span>
-            <span></span>
-        </div>
-        <div class="hv1-menu-wrapper">
-            <div class="single-hv1-menu" data-aos="fade-up">
-                <div class="image">
-                    <div class="discount">
-                        <span>-30 %</span>
+        <div class="abutGallery-wrapper">
+            <div class="aboutGrid-sizer"></div>
+            <div class="aGallery-item">
+                <div class="singleAboutGallery">
+                    <div class="gallery-image">
+                        <img src="assets/img/gallery/gallery/gallery-01.jpg" alt="gallery">
                     </div>
-                    <img src="assets/img/product/shop/s-04.jpg" alt="shop">
-                    <div class="button">
-                        <a href="cart.html" class="btn"><span class="iconify" data-icon="bytesize:cart"></span> Add to
-                            Cart</a>
+                    <div class="g-icon">
+                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
+                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
                     </div>
-                </div>
-                <div class="content">
-                    <h3>$15</h3>
-                    <h4><a href="food-details.html">Sugar free Special Sweet</a></h4>
+                    <div class="title">
+                        <span>23 Nov , 2021</span>
+                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                    </div>
                 </div>
             </div>
-            <div class="single-hv1-menu" data-aos="fade-up" data-aos-delay="200">
-                <div class="image">
-                    <img src="assets/img/product/shop/s-05.jpg" alt="shop">
-                    <div class="button">
-                        <a href="cart.html" class="btn"><span class="iconify" data-icon="bytesize:cart"></span> Add to
-                            Cart</a>
+            <div class="aGallery-item">
+                <div class="singleAboutGallery">
+                    <div class="gallery-image">
+                        <img src="assets/img/gallery/gallery/gallery-02.jpg" alt="gallery">
+                    </div>
+                    <div class="g-icon">
+                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
+                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
+                    </div>
+                    <div class="title">
+                        <span>23 Nov , 2021</span>
+                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
                     </div>
                 </div>
-                <div class="content">
-                    <h3>$35</h3>
-                    <h4><a href="food-details.html">Cheesy Piza Slice</a></h4>
-                </div>
             </div>
-            <div class="single-hv1-menu" data-aos="fade-up" data-aos-delay="400">
-                <div class="image">
-                    <img src="assets/img/product/shop/s-06.jpg" alt="shop">
-                    <div class="button">
-                        <a href="cart.html" class="btn"><span class="iconify" data-icon="bytesize:cart"></span> Add to
-                            Cart</a>
+            <div class="aGallery-item w-2 item-03 d-none d-xl-block">
+                <div class="singleAboutGallery">
+                    <div class="gallery-image">
+                        <img src="assets/img/gallery/gallery/gallery-03.jpg" alt="gallery">
+                    </div>
+                    <div class="g-icon">
+                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
+                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
+                    </div>
+                    <div class="title">
+                        <span>23 Nov , 2021</span>
+                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
                     </div>
                 </div>
-                <div class="content">
-                    <h3>$12</h3>
-                    <h4><a href="food-details.html">Beef T Bone Steak</a></h4>
-                </div>
             </div>
-            <div class="single-hv1-menu" data-aos="fade-up">
-                <div class="image">
-                    <img src="assets/img/product/shop/s-10.jpg" alt="shop">
-                    <div class="button">
-                        <a href="cart.html" class="btn"><span class="iconify" data-icon="bytesize:cart"></span> Add to
-                            Cart</a>
+            <div class="aGallery-item item-04">
+                <div class="singleAboutGallery">
+                    <div class="gallery-image">
+                        <img src="assets/img/gallery/gallery/gallery-04.jpg" alt="gallery">
+                    </div>
+                    <div class="g-icon">
+                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
+                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
+                    </div>
+                    <div class="title">
+                        <span>23 Nov , 2021</span>
+                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
                     </div>
                 </div>
-                <div class="content">
-                    <h3>$24</h3>
-                    <h4><a href="food-details.html">Juicy & Healthy Burger</a></h4>
-                </div>
             </div>
-            <div class="single-hv1-menu" data-aos="fade-up" data-aos-delay="200">
-                <div class="image">
-                    <img src="assets/img/product/shop/s-01.jpg" alt="shop">
-                    <div class="button">
-                        <a href="cart.html" class="btn"><span class="iconify" data-icon="bytesize:cart"></span> Add to
-                            Cart</a>
+            <div class="aGallery-item long-hight">
+                <div class="singleAboutGallery">
+                    <div class="gallery-image">
+                        <img src="assets/img/gallery/gallery/gallery-05.jpg" alt="gallery">
+                    </div>
+                    <div class="g-icon">
+                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
+                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
+                    </div>
+                    <div class="title">
+                        <span>23 Nov , 2021</span>
+                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
                     </div>
                 </div>
-                <div class="content">
-                    <h3>$10</h3>
-                    <h4><a href="food-details.html">Special Chockolate Pastry</a></h4>
-                </div>
             </div>
-            <div class="single-hv1-menu" data-aos="fade-up" data-aos-delay="400">
-                <div class="image">
-                    <img src="assets/img/product/shop/s-11.jpg" alt="shop">
-                    <div class="button">
-                        <a href="cart.html" class="btn"><span class="iconify" data-icon="bytesize:cart"></span> Add to
-                            Cart</a>
+            <div class="aGallery-item longItem">
+                <div class="singleAboutGallery">
+                    <div class="gallery-image">
+                        <img src="assets/img/gallery/gallery/gallery-06.jpg" alt="gallery">
+                    </div>
+                    <div class="g-icon">
+                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
+                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
+                    </div>
+                    <div class="title">
+                        <span>23 Nov , 2021</span>
+                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
                     </div>
                 </div>
-                <div class="content">
-                    <h3>$7</h3>
-                    <h4><a href="food-details.html">Creamy Chockolate Donut</a></h4>
+            </div>
+            <div class="aGallery-item long-hight">
+                <div class="singleAboutGallery">
+                    <div class="gallery-image">
+                        <img src="assets/img/gallery/gallery/gallery-07.jpg" alt="gallery">
+                    </div>
+                    <div class="g-icon">
+                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
+                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
+                    </div>
+                    <div class="title">
+                        <span>23 Nov , 2021</span>
+                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="text-center mt-50 mt-xs-30">
-            <a class="btn btn-skew-y" href="shop-v1.html" data-text="See More Food"><span>See More Food</span></a>
+            <div class="aGallery-item">
+                <div class="singleAboutGallery">
+                    <div class="gallery-image">
+                        <img src="assets/img/gallery/gallery/gallery-08.jpg" alt="gallery">
+                    </div>
+                    <div class="g-icon">
+                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
+                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
+                    </div>
+                    <div class="title">
+                        <span>23 Nov , 2021</span>
+                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                    </div>
+                </div>
+            </div>
+            <div class="aGallery-item">
+                <div class="singleAboutGallery">
+                    <div class="gallery-image">
+                        <img src="assets/img/gallery/gallery/gallery-09.jpg" alt="gallery">
+                    </div>
+                    <div class="g-icon">
+                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
+                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
+                    </div>
+                    <div class="title">
+                        <span>23 Nov , 2021</span>
+                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                    </div>
+                </div>
+            </div>
+            <div class="aGallery-item w-2 d-block d-xl-none">
+                <div class="singleAboutGallery">
+                    <div class="gallery-image">
+                        <img src="assets/img/gallery/gallery/gallery-03.jpg" alt="gallery">
+                    </div>
+                    <div class="g-icon">
+                        <a href="#"><span class="iconify" data-icon="ci:heart-fill"></span></a>
+                        <a href="#"><img src="assets/img/icon/arrow-down.svg" alt="icon"></a>
+                    </div>
+                    <div class="title">
+                        <span>23 Nov , 2021</span>
+                        <h4><a href="food-details.html">Special BBQ Nachos</a></h4>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
-<!-- Menu Area End Here -->
+<!-- Gallery Area End Here -->
 
 <!-- Video Area Start Here -->
+<div class="container mb-5 text-center">
+    <h2 >Un poco de nuestro ambiente</h2>
+    <span>Mezcla perfecta de lujo, entretenimiento y exclusividad.</span>
+</div>
 <div class="hv1-vider-area relative">
+
     <div class="background-img">
         <img class="left-right" src="assets/img/home-v1/video.jpg" alt="banner">
     </div>
@@ -284,147 +359,93 @@
 </section>
 <!-- Testimonial Area End Here -->
 
-<!-- Chef Area Start Here -->
-<section class="about-chef-area s-py-100 relative">
-    <div class="background-img">
-        <img src="assets/img/bg/about-chef.jpg" alt="bg">
-    </div>
-    <div class="container">
-        <div class="section-title wSection-title">
-            <h2>Expert Chef</h2>
-            <p>Nibh purus integer elementum in. Tellus vulputate habitasse ut diam Auctor sit elementum, vulputate</p>
-            <span></span>
-            <span></span>
-        </div>
-        <div class="about-chef-wrapper">
-            <div class="singleAbout-chef" data-aos="fade-up">
-                <div class="img">
-                    <img src="assets/img/gallery/about-chef/chef-01.jpg" alt="chef">
-                </div>
-                <div class="content">
-                    <div class="social">
-                        <a href="#"><span class="iconify" data-icon="icomoon-free:facebook"></span></a>
-                        <a href="#"><span class="iconify" data-icon="akar-icons:twitter-fill"></span></a>
-                        <a href="#"><span class="iconify" data-icon="bi:instagram"></span></a>
-                    </div>
-                    <div class="title">
-                        <a href="chef-details.html">Rock Williamson</a>
-                        <span>Thai Master Chef</span>
-                    </div>
-                </div>
-            </div>
-            <div class="singleAbout-chef" data-aos="fade-up" data-aos-delay="200">
-                <div class="img">
-                    <img src="assets/img/gallery/about-chef/chef-02.jpg" alt="chef">
-                </div>
-                <div class="content">
-                    <div class="social">
-                        <a href="#"><span class="iconify" data-icon="icomoon-free:facebook"></span></a>
-                        <a href="#"><span class="iconify" data-icon="akar-icons:twitter-fill"></span></a>
-                        <a href="#"><span class="iconify" data-icon="bi:instagram"></span></a>
-                    </div>
-                    <div class="title">
-                        <a href="chef-details.html">James Williamson</a>
-                        <span>Thai Master Chef</span>
-                    </div>
-                </div>
-            </div>
-            <div class="singleAbout-chef" data-aos="fade-up" data-aos-delay="400">
-                <div class="img">
-                    <img src="assets/img/gallery/about-chef/chef-03.jpg" alt="chef">
-                </div>
-                <div class="content">
-                    <div class="social">
-                        <a href="#"><span class="iconify" data-icon="icomoon-free:facebook"></span></a>
-                        <a href="#"><span class="iconify" data-icon="akar-icons:twitter-fill"></span></a>
-                        <a href="#"><span class="iconify" data-icon="bi:instagram"></span></a>
-                    </div>
-                    <div class="title">
-                        <a href="chef-details.html">Dabid Singha</a>
-                        <span>Thai Master Chef</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="text-center mt-50 mt-xs-30">
-            <a class="btn btn-skew-y" href="chef.html" data-text="Load More"><span>Load More</span></a>
-        </div>
-    </div>
-</section>
-<!-- Chef Area End Here -->
-
-<!-- Blog Area Start Here -->
-<section class="blog-area s-py-100 bg-overlay" style="background-image: url('assets/img/home-v1/menu-shape.png');">
-    <div class="container">
-        <div class="section-title">
-            <h2>Blog Post</h2>
-            <p>Nibh purus integer elementum in. Tellus vulputate habitasse ut diam Auctor sit elementum, vulputate</p>
-            <span></span>
-            <span></span>
-        </div>
-        <div class="blog-wrapper">
-            <div class="single-blog" data-aos="fade-up">
-                <div class="blogImg">
-                    <img src="assets/img/gallery/blog/blog-05.jpg" alt="blog">
-                </div>
-                <div class="blogContent">
-                    <div class="date">
-                        <span><span class="iconify" data-icon="ic:baseline-date-range"></span> Februaary 6, 2021</span>
-                        <a href="#">Fast food</a>
-                    </div>
-                    <h4><a href="#">Lorem ipsum dolor sit amet consectetur adipiscing elit food quality</a></h4>
-                    <div class="button">
-                        <a href="blog-details.html" class="btn">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="single-blog" data-aos="fade-up" data-aos-delay="200">
-                <div class="blogImg">
-                    <img src="assets/img/gallery/blog/blog-06.jpg" alt="blog">
-                </div>
-                <div class="blogContent">
-                    <div class="date">
-                        <span><span class="iconify" data-icon="ic:baseline-date-range"></span> Februaary 6, 2021</span>
-                        <a href="#">Fast food</a>
-                    </div>
-                    <h4><a href="#">Lorem ipsum dolor sit amet consectetur adipiscing elit food quality</a></h4>
-                    <div class="button">
-                        <a href="blog-details.html" class="btn">Read More</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="text-center mt-50 mt-xs-30">
-            <a class="btn btn-skew-y" href="blog.html" data-text="See More Post"><span>See More Post</span></a>
-        </div>
-    </div>
-</section>
-<!-- Blog Area End Here -->
 
 <!-- Subscribe Area Start Here -->
 <section class="subscribe-area s-py-100">
     <div class="container">
         <div class="subscribe-wrapper">
             <div class="section-title">
-                <h2 data-aos="fade-up">Subscribe Newsletter</h2>
-                <p data-aos="fade-up" data-aos-delay="100">Nibh purus integer elementum in. Tellus vulputate habitasse
-                    ut diam Auctor sit elementum, vulputate</p>
+                <h2 data-aos="fade-up">No esperes más y reserva ahora</h2>
+                <p data-aos="fade-up" data-aos-delay="100">Ven y vive el privilegio de pasar tu noche en Saloon Cabo.</p>
                 <span data-aos="fade-up" data-aos-delay="200"></span>
                 <span data-aos="fade-up" data-aos-delay="300"></span>
             </div>
             <div class="sb-from">
-                <div class="input-box" data-aos="fade-down" data-aos-delay="200">
-                    <label>E-mail</label>
-                    <div class="input-fild">
-                        <input type="text" placeholder="Enter your mail">
-                        <button>
-                            <img src="assets/img/icon/message.svg" alt="icon">
-                        </button>
-                    </div>
-                </div>
-                <button data-aos="fade-down " class="btn sb-btn" type="submit">Subscribe</button>
+                <a href="#" data-aos="fade-down " class="btn sb-btn">Hacer reservación</a>
             </div>
         </div>
     </div>
 </section>
 <!-- Subscribe Area End Here -->
+
+<!-- Contact Area Start Here -->
+<section class="contact-area bg-overlay" style="background-image: url('assets/img/bg/contct.jpg');">
+    <div class="s-py-100">
+        <div class="container">
+            <div class="contact-from">
+                <h5 data-aos="fade-up">¿Tienes alguna duda o pregunta?</h5>
+                <p data-aos="fade-up" data-aos-delay="200">
+                    Si tienes alguna duda o quieres agendar una reservación... <br>
+                    ¡Escríbenos! Estamos para servirte.
+                </p>
+                <div class="from mt-20">
+                <div class="input-box"  data-aos="fade-up" data-aos-delay="400">
+                        <label>Nombre</label>
+                        <div class="input-fild">
+                            <input type="text" placeholder="Escriba su nombre" required>
+                        </div>
+                    </div>
+                    <div class="input-box mt-4"  data-aos="fade-up" data-aos-delay="400">
+                        <label>E-mail</label>
+                        <div class="input-fild">
+                            <input type="email" placeholder="Escriba su correo" required>
+                        </div>
+                    </div>
+                    <div class="input-box mt-4"  data-aos="fade-up" data-aos-delay="400">
+                        <label>Teléfono</label>
+                        <div class="input-fild">
+                            <input type="text" placeholder="Escriba su télefono" required>
+                        </div>
+                    </div>
+                    <div class="input-fild mt-30"  data-aos="fade-up" data-aos-delay="500">
+                        <textarea placeholder="Mensaje" required></textarea>
+                    </div>
+                    <div class="button mt-20 mt-xs-10"  data-aos="fade-up" data-aos-delay="600">
+                        <a class="btn btn-skew-y" type="submit" data-text="Enviar"><span>Enviar</span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Contact Decription Area -->
+    <div class="contact-dec-area s-py-50">
+        <div class="container">
+            <div class="contact-dec-wrapper">
+                <div class="content">
+                   <div class="title">
+                        <h5>Información de Contacto</h5>
+                        <p>Lorem ipsum dolor sit amet consectetur pulvinar elementum from contact. </p>
+                   </div>
+                    <div class="contact">
+                        <a href="tel:+521234567890"><span class="iconify" data-icon="clarity:phone-handset-solid"></span> +52 123 4567890</a>
+                        <a href="mailto:salooncoachbar@gmail.com"><span class="iconify" data-icon="fluent:mail-28-filled"></span> salooncoachbar@gmail.com</a>
+                        <a href="https://goo.gl/maps/HEVxJ1faPLiYTMAMA"><span class="iconify" data-icon="entypo:location-pin"></span> Boulevard Lázaro Cárdenas, Cabo San Lucas</a>
+                    </div>
+                </div>
+                <div class="contact-social">
+                    <a href="#">
+                        <span class="iconify" data-icon="icomoon-free:facebook"></span>
+                    </a>
+                    <a href="#">
+                        <span class="iconify" data-icon="akar-icons:instagram-fill"></span>
+                    </a>
+                    <!-- <a href="#">
+                        <span class="iconify" data-icon="akar-icons:twitter-fill"></span>
+                    </a> -->
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Contact Area End Here -->
