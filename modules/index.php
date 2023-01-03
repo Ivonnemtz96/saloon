@@ -1,5 +1,5 @@
 <!-- Banner Area Start Here -->
-<section class="homeV1-banner-area bg-overlay" style="background-image: url('assets/img/home-v1/banner.jpg');">
+<section class="homeV1-banner-area bg-overlay" style="background-image: url('assets/img/home-v1/banner.webp');">
     <div class="shape">
         <img src="assets/img/home-v1/banner-shpe.jpg" alt="shape">
     </div>
@@ -392,5 +392,11 @@
             </div>
         </div>
     </div>
+
+    <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2154.5605411570564!2d-109.91409136610739!3d22.88615887447309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4b27bbf99ead%3A0x8ad8db5d7f25912!2sSaloon%20Los%20Cabos!5e0!3m2!1ses-419!2smx!4v1672779804451!5m2!1ses-419!2smx"
+            width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
 <!-- Contact Area End Here -->
+
