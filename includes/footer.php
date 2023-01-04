@@ -142,7 +142,7 @@
 </footer> -->
 <div class="copyright">
     <div class="container">
-        <p>Copyright &copy; 2022 Saloon Cabo. Diseñado por <a href="https://bananagroup.mx">Banana Group Marketing</a>.</p>
+        <p>Copyright &copy; 2022 Saloon Cabo. Diseñado por <a style="color: #e0d2c7;" href="https://bananagroup.mx">Banana Group Marketing</a>.</p>
     </div>
 </div>
 <!-- Footer script-->
