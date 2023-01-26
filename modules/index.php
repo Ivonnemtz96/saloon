@@ -1,5 +1,5 @@
 <!-- Banner Area Start Here -->
-<section class="homeV1-banner-area bg-overlay" style="background-image: url('assets/img/home-v1/banner.webp');">
+<section class="homeV1-banner-area bg-overlay" style="background-image: url('assets/img/home-v1/banner.webp?=1');">
     
     <div class="container">
         <div class="hv1-banner-wrapper owl-carousel">
@@ -44,7 +44,7 @@
         <div class="about-wrapper about-anime-section-one">
             <div class="about-thumb">
                 <div class="thumb anime-thumb-about-one">
-                    <img src="assets/img/thumb/about.jpg" alt="about">
+                    <img src="assets/img/thumb/about.jpg?=1" alt="about">
                 </div>
                 <div class="shape anime-thumb-about-two">
                     <img src="assets/img/shape/dot-group.svg" alt="shape">
@@ -80,7 +80,7 @@
         <div class="hv1-gallery-wrapper">
             <div class="single-hv1-gallery" data-aos="fade-up">
                 <div class="hv1-g-img">
-                    <img src="assets/img/home-v1/gallery/g-01.jpg" alt="food-gallery">
+                    <img src="assets/img/home-v1/gallery/g-01.jpg?=1" alt="food-gallery">
                 </div>
                 <div class="hv1-g-content">
                     <!-- <h3>Evening Snacks</h3> -->
@@ -90,7 +90,7 @@
             </div>
             <div class="single-hv1-gallery" data-aos="fade-up" data-aos-delay="200">
                 <div class="hv1-g-img">
-                    <img src="assets/img/home-v1/gallery/g-02.jpg" alt="food-gallery">
+                    <img src="assets/img/home-v1/gallery/g-02.jpg?=1" alt="food-gallery">
                 </div>
                 <div class="hv1-g-content">
                     <!-- <h3>Evening Snacks</h3> -->
@@ -100,7 +100,7 @@
             </div>
             <div class="single-hv1-gallery" data-aos="fade-up" data-aos-delay="400">
                 <div class="hv1-g-img">
-                    <img src="assets/img/home-v1/gallery/g-03.jpg" alt="food-gallery">
+                    <img src="assets/img/home-v1/gallery/g-03.jpg?=1" alt="food-gallery">
                 </div>
                 <div class="hv1-g-content">
                     <!-- <h3>Evening Snacks</h3> -->
@@ -110,7 +110,7 @@
             </div>
             <div class="single-hv1-gallery" data-aos="fade-up" data-aos-delay="600">
                 <div class="hv1-g-img">
-                    <img src="assets/img/home-v1/gallery/g-04.jpg" alt="food-gallery">
+                    <img src="assets/img/home-v1/gallery/g-04.jpg?=1" alt="food-gallery">
                 </div>
                 <div class="hv1-g-content">
                     <!-- <h3>Evening Snacks</h3> -->
@@ -136,8 +136,8 @@
             <div class="aGallery-item">
                 <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <a href="assets/img/gallery/gallery/gallery-01.jpg">
-                            <img src="assets/img/gallery/gallery/gallery-01.jpg" alt="gallery">
+                        <a href="assets/img/gallery/gallery/gallery-01.jpg?=1">
+                            <img src="assets/img/gallery/gallery/gallery-01.jpg?=1" alt="gallery">
                         </a>
                     </div>
                 </div>
@@ -145,8 +145,8 @@
             <div class="aGallery-item">
                 <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <a href="assets/img/gallery/gallery/gallery-02.jpg">
-                            <img src="assets/img/gallery/gallery/gallery-02.jpg" alt="gallery">
+                        <a href="assets/img/gallery/gallery/gallery-02.jpg?=1">
+                            <img src="assets/img/gallery/gallery/gallery-02.jpg?=1" alt="gallery">
                         </a>
                     </div>
                 </div>
@@ -154,8 +154,8 @@
             <div class="aGallery-item w-2 item-03 d-none d-xl-block">
                 <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <a href="assets/img/gallery/gallery/gallery-03.jpg">
-                            <img src="assets/img/gallery/gallery/gallery-03.jpg" alt="gallery">
+                        <a href="assets/img/gallery/gallery/gallery-03.jpg?=1">
+                            <img src="assets/img/gallery/gallery/gallery-03.jpg?=1" alt="gallery">
                         </a>
                     </div>
                 </div>
@@ -163,8 +163,8 @@
             <div class="aGallery-item item-04">
                 <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <a href="assets/img/gallery/gallery/gallery-04.jpg">
-                            <img src="assets/img/gallery/gallery/gallery-04.jpg" alt="gallery">
+                        <a href="assets/img/gallery/gallery/gallery-04.jpg?=1">
+                            <img src="assets/img/gallery/gallery/gallery-04.jpg?=1" alt="gallery">
                         </a>
                     </div>
                 </div>
@@ -172,8 +172,8 @@
             <div class="aGallery-item long-hight">
                 <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <a href="assets/img/gallery/gallery/gallery-05.jpg">
-                            <img src="assets/img/gallery/gallery/gallery-05.jpg" alt="gallery">
+                        <a href="assets/img/gallery/gallery/gallery-05.jpg?=1">
+                            <img src="assets/img/gallery/gallery/gallery-05.jpg?=1" alt="gallery">
                         </a>
                     </div>
                 </div>
@@ -181,8 +181,8 @@
             <div class="aGallery-item longItem">
                 <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <a href="assets/img/gallery/gallery/gallery-06.jpg">
-                            <img src="assets/img/gallery/gallery/gallery-06.jpg" alt="gallery">
+                        <a href="assets/img/gallery/gallery/gallery-06.jpg?=1">
+                            <img src="assets/img/gallery/gallery/gallery-06.jpg?=1" alt="gallery">
                         </a>
                     </div>
                 </div>
@@ -190,8 +190,8 @@
             <div class="aGallery-item long-hight">
                 <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <a href="assets/img/gallery/gallery/gallery-07.jpg">
-                            <img src="assets/img/gallery/gallery/gallery-07.jpg" alt="gallery">
+                        <a href="assets/img/gallery/gallery/gallery-07.jpg?=1">
+                            <img src="assets/img/gallery/gallery/gallery-07.jpg?=1" alt="gallery">
                         </a>
                     </div>
                 </div>
@@ -199,8 +199,8 @@
             <div class="aGallery-item">
                 <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <a href="assets/img/gallery/gallery/gallery-08.jpg">
-                            <img src="assets/img/gallery/gallery/gallery-08.jpg" alt="gallery">
+                        <a href="assets/img/gallery/gallery/gallery-08.jpg?=1">
+                            <img src="assets/img/gallery/gallery/gallery-08.jpg?=1" alt="gallery">
                         </a>
                     </div>
                 </div>
@@ -208,8 +208,8 @@
             <div class="aGallery-item">
                 <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <a href="assets/img/gallery/gallery/gallery-09.jpg">
-                            <img src="assets/img/gallery/gallery/gallery-09.jpg" alt="gallery">
+                        <a href="assets/img/gallery/gallery/gallery-09.jpg?=1">
+                            <img src="assets/img/gallery/gallery/gallery-09.jpg?=1" alt="gallery">
                         </a>
                     </div>
 
@@ -218,8 +218,8 @@
             <div class="aGallery-item w-2 d-block d-xl-none">
                 <div class="mt-4 mb-4">
                     <div class="gallery-image">
-                        <a href="assets/img/gallery/gallery/gallery-03.jpg">
-                            <img src="assets/img/gallery/gallery/gallery-03.jpg" alt="gallery">
+                        <a href="assets/img/gallery/gallery/gallery-03.jpg?=1">
+                            <img src="assets/img/gallery/gallery/gallery-03.jpg?=1" alt="gallery">
                         </a>
                     </div>
                 </div>
@@ -241,7 +241,7 @@
     </div>
     <div class="container">
         <div class="hv1-video">
-            <a class="popup-video" href="https://www.youtube.com/watch?v=oX6Rw4_aZoQ">
+            <a class="popup-video" href="https://www.youtube.com/watch?v=usAjh80mubs">
                 <img src="assets/img/icon/play.svg" alt="play">
             </a>
         </div>
