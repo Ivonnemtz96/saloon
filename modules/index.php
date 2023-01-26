@@ -237,7 +237,7 @@
 <div class="hv1-vider-area relative">
 
     <div class="background-img">
-        <img class="left-right" src="assets/img/home-v1/video.jpg" alt="banner">
+        <img class="left-right" src="assets/img/home-v1/video.webp?=1" alt="banner">
     </div>
     <div class="container">
         <div class="hv1-video">
