@@ -12,6 +12,7 @@ include('includes/head.php');
         include('includes/header.php');
         include('modules/index.php');
         include('includes/footer.php');
+        include('includes/btn-flotante.php');
         include('includes/scripts.php');
     ?>
 </body>

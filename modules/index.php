@@ -84,7 +84,7 @@
                 </div>
                 <div class="hv1-g-content">
                     <!-- <h3>Evening Snacks</h3> -->
-                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 12:00 PM - 2:45 AM</p>
+                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 13:00 PM - 5:00 AM</p>
                     <a class="btn btn-skew-y btn-md" target="_blank" href="https://goo.gl/maps/WBNKY7TNm8K3vCkZ9" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
                 </div>
             </div>
@@ -94,7 +94,7 @@
                 </div>
                 <div class="hv1-g-content">
                     <!-- <h3>Evening Snacks</h3> -->
-                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 12:00 PM - 2:45 AM</p>
+                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 13:00 PM - 5:00 AM</p>
                     <a class="btn btn-skew-y btn-md" target="_blank" href="https://goo.gl/maps/WBNKY7TNm8K3vCkZ9" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
                 </div>
             </div>
@@ -104,7 +104,7 @@
                 </div>
                 <div class="hv1-g-content">
                     <!-- <h3>Evening Snacks</h3> -->
-                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 12:00 PM - 2:45 AM</p>
+                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 13:00 PM - 5:00 AM</p>
                     <a class="btn btn-skew-y btn-md" target="_blank" href="https://goo.gl/maps/WBNKY7TNm8K3vCkZ9" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
                 </div>
             </div>
@@ -114,7 +114,7 @@
                 </div>
                 <div class="hv1-g-content">
                     <!-- <h3>Evening Snacks</h3> -->
-                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 12:00 PM - 2:45 AM</p>
+                    <p><span class="iconify" data-icon="akar-icons:clock"></span> 13:00 PM - 5:00 AM</p>
                     <a class="btn btn-skew-y btn-md" target="_blank" href="https://goo.gl/maps/WBNKY7TNm8K3vCkZ9" data-text="Ver Ubicación"><span>Ver Ubicación</span></a>
                 </div>
             </div>
@@ -359,15 +359,15 @@
                     <div class="title">
                         <h5>Información de Contacto</h5>
                         <p>Nuestros horarios <br>
-                            Lunes  a Domingo: <strong>12:00pm a 2:45 am</strong></p>
+                            Lunes  a Domingo: <strong>13:00 PM - 5:00 AM</strong></p>
                     </div>
                     <div class="contact">
-                        <a target="_blank" href="tel:+521234567890"><span class="iconify"
-                                data-icon="clarity:phone-handset-solid"></span> +52 123 4567890</a>
+                        <a target="_blank" href="tel:+526241914389"><span class="iconify"
+                                data-icon="clarity:phone-handset-solid"></span> +52 624 191 4389</a>
                         <a target="_blank" href="mailto:salooncoachbar@gmail.com"><span class="iconify"
                                 data-icon="fluent:mail-28-filled"></span> salooncoachbar@gmail.com</a>
                         <a target="_blank" href="https://goo.gl/maps/HEVxJ1faPLiYTMAMA"><span class="iconify"
-                                data-icon="entypo:location-pin"></span> Boulevard Lázaro Cárdenas, Cabo San Lucas</a>
+                                data-icon="entypo:location-pin"></span> Avenida Lázaro Cárdenas, Cabo San Lucas</a>
                     </div>
                 </div>
                 <div class="contact-social">
